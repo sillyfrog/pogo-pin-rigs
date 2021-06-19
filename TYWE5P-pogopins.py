@@ -12,6 +12,8 @@ DEPTH = 1.1
 PAD_SPACING = 14.14 / 7
 WALL = 1
 
+# This is the pin diameter to print in mm.
+# Pins are 1.3mm standard, but depending on printer this may need to be smaller or larger.
 PIN_D = 1.3
 PIN_L = 16.5
 
