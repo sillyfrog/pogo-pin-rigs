@@ -1,8 +1,9 @@
 # Pogo Pin Flashing Adaptors
 
-Source code for a 3D printed pogo pin holder for flashing the TYWE5P ESP based chip.
+Source code for a 3D printed pogo pin holder for flashing various chips:
 
-See the built files here: https://www.thingiverse.com/thing:4889239
+- TYWE5P ESP based chip: https://www.thingiverse.com/thing:4889239
+- CB2S: https://www.thingiverse.com/thing:5905447
 
 # Using this code
 
